@@ -37,10 +37,4 @@ Se a distância do objeto for maior que 30 cm, o LED permanecerá apagado.
 **Link simulação no WOKWI:** https://wokwi.com/projects/415208562278247425 <br>
 **Código C++ do circuito:** dentro do repositório
 
-<br>
-<br>
 
-
-**Integrantes do projeto:** <br>
-Ana Luiza Santana da Rocha - RM 561194 <br>
-Marcelo Affonso Fonseca - RM 559790
